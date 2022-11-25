@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{e91c0474-acbb-44aa-adcc-0869b2a59952}">
+		<property name="name">
+			<value>SaltosLoops</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c30baaf3-e7b2-4237-987b-2ffe28acb04d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{72247aaf-7f32-4d7d-9224-32efdbb40a38}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{72247aaf-7f32-4d7d-9224-32efdbb40a38}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>P.A</value>
+			<value>P.B</value>
+			<value>P.C</value>
+			<value>Fim</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

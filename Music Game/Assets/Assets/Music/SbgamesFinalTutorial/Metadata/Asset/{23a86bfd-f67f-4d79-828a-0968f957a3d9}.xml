@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{23a86bfd-f67f-4d79-828a-0968f957a3d9}">
+		<property name="assetPath">
+			<value>Tracks Jungle Reborn/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{34f05f89-d7a1-4ee7-96c6-1015f9f50635}</destination>
+		</relationship>
+	</object>
+</objects>
